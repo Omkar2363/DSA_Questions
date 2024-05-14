@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DSA_Questions.iml" filepath="$PROJECT_DIR$/DSA_Questions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Rough Practice/Rough Practice.iml" filepath="$PROJECT_DIR$/Rough Practice/Rough Practice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1 Arrays/_1 Arrays.iml" filepath="$PROJECT_DIR$/_1 Arrays/_1 Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_10  Stack and Queues/_10  Stack and Queues.iml" filepath="$PROJECT_DIR$/_10  Stack and Queues/_10  Stack and Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_11  Heaps and Hashing/_11  Heaps and Hashing.iml" filepath="$PROJECT_DIR$/_11  Heaps and Hashing/_11  Heaps and Hashing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_12  Graph/_12  Graph.iml" filepath="$PROJECT_DIR$/_12  Graph/_12  Graph.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_13  Trie/_13  Trie.iml" filepath="$PROJECT_DIR$/_13  Trie/_13  Trie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_14  Dynamic Programming/_14  Dynamic Programming.iml" filepath="$PROJECT_DIR$/_14  Dynamic Programming/_14  Dynamic Programming.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_15  Bit Manipulation/_15  Bit Manipulation.iml" filepath="$PROJECT_DIR$/_15  Bit Manipulation/_15  Bit Manipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_2 Matrix OR 2D-Array/_2 Matrix OR 2D-Array.iml" filepath="$PROJECT_DIR$/_2 Matrix OR 2D-Array/_2 Matrix OR 2D-Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_3 Strings/_3 Strings.iml" filepath="$PROJECT_DIR$/_3 Strings/_3 Strings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_4  Searching and Sorting/_4  Searching and Sorting.iml" filepath="$PROJECT_DIR$/_4  Searching and Sorting/_4  Searching and Sorting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_5  Linked List/_5  Linked List.iml" filepath="$PROJECT_DIR$/_5  Linked List/_5  Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_6  Binary Tree/_6  Binary Tree.iml" filepath="$PROJECT_DIR$/_6  Binary Tree/_6  Binary Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_7  Binary Search Tree/_7  Binary Search Tree.iml" filepath="$PROJECT_DIR$/_7  Binary Search Tree/_7  Binary Search Tree.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_8  Greedy/_8  Greedy.iml" filepath="$PROJECT_DIR$/_8  Greedy/_8  Greedy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_9  BackTracking/_9  BackTracking.iml" filepath="$PROJECT_DIR$/_9  BackTracking/_9  BackTracking.iml" />
+    </modules>
+  </component>
+</project>
